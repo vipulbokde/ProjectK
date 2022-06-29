@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-28T07:52:00 IST" name="ProjectK test automation suite" finished-at="2022-06-28T07:52:49 IST" duration-ms="49576">
+    <groups>
+    </groups>
+    <test started-at="2022-06-28T07:52:00 IST" name="ProjectK Test Cases" finished-at="2022-06-28T07:52:49 IST" duration-ms="49576">
+      <class name="com.projectk.qa.testcases.TextBoxTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.projectk.qa.testcases.TextBoxTest@290222c1]" started-at="2022-06-28T07:52:00 IST" name="setUp" finished-at="2022-06-28T07:52:10 IST" duration-ms="10462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="textBoxButtonTest()[pri:1, instance:com.projectk.qa.testcases.TextBoxTest@290222c1]" started-at="2022-06-28T07:52:10 IST" name="textBoxButtonTest" finished-at="2022-06-28T07:52:15 IST" duration-ms="4553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- textBoxButtonTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.projectk.qa.testcases.TextBoxTest@290222c1]" started-at="2022-06-28T07:52:15 IST" name="tearDown" finished-at="2022-06-28T07:52:16 IST" duration-ms="1055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.projectk.qa.testcases.TextBoxTest@290222c1]" started-at="2022-06-28T07:52:17 IST" name="setUp" finished-at="2022-06-28T07:52:24 IST" duration-ms="7226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="dataDriventextBoxButtonTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.projectk.qa.testcases.TextBoxTest@290222c1]" started-at="2022-06-28T07:52:24 IST" name="dataDriventextBoxButtonTest" data-provider="getprojectKTestData" finished-at="2022-06-28T07:52:24 IST" duration-ms="307" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kajal]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kajalg@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[nagpur]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[mount road]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataDriventextBoxButtonTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.projectk.qa.testcases.TextBoxTest@290222c1]" started-at="2022-06-28T07:52:24 IST" name="tearDown" finished-at="2022-06-28T07:52:24 IST" duration-ms="310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.projectk.qa.testcases.TextBoxTest@290222c1]" started-at="2022-06-28T07:52:24 IST" name="setUp" finished-at="2022-06-28T07:52:33 IST" duration-ms="8115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="dataDriventextBoxButtonTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.projectk.qa.testcases.TextBoxTest@290222c1]" started-at="2022-06-28T07:52:33 IST" name="dataDriventextBoxButtonTest" data-provider="getprojectKTestData" finished-at="2022-06-28T07:52:33 IST" duration-ms="409" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ganesh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ganeshp@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pune]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[kailsah road]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataDriventextBoxButtonTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.projectk.qa.testcases.TextBoxTest@290222c1]" started-at="2022-06-28T07:52:33 IST" name="tearDown" finished-at="2022-06-28T07:52:33 IST" duration-ms="285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.projectk.qa.testcases.TextBoxTest@290222c1]" started-at="2022-06-28T07:52:33 IST" name="setUp" finished-at="2022-06-28T07:52:41 IST" duration-ms="7384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="dataDriventextBoxButtonTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.projectk.qa.testcases.TextBoxTest@290222c1]" started-at="2022-06-28T07:52:41 IST" name="dataDriventextBoxButtonTest" data-provider="getprojectKTestData" finished-at="2022-06-28T07:52:41 IST" duration-ms="338" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vipul]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vipulb@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[bhopal]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ca road]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataDriventextBoxButtonTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.projectk.qa.testcases.TextBoxTest@290222c1]" started-at="2022-06-28T07:52:41 IST" name="tearDown" finished-at="2022-06-28T07:52:41 IST" duration-ms="302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.projectk.qa.testcases.TextBoxTest@290222c1]" started-at="2022-06-28T07:52:41 IST" name="setUp" finished-at="2022-06-28T07:52:49 IST" duration-ms="7451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="dataDriventextBoxButtonTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.projectk.qa.testcases.TextBoxTest@290222c1]" started-at="2022-06-28T07:52:49 IST" name="dataDriventextBoxButtonTest" data-provider="getprojectKTestData" finished-at="2022-06-28T07:52:49 IST" duration-ms="401" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ketki]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ketkik@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[delhi]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[casper road]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataDriventextBoxButtonTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.projectk.qa.testcases.TextBoxTest@290222c1]" started-at="2022-06-28T07:52:49 IST" name="tearDown" finished-at="2022-06-28T07:52:49 IST" duration-ms="271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.projectk.qa.testcases.TextBoxTest -->
+    </test> <!-- ProjectK Test Cases -->
+  </suite> <!-- ProjectK test automation suite -->
+</testng-results>

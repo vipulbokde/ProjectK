@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="ProjectK test automation suite" parallel = "tests" thread-count="2">
+<listeners> 
+<listener class-name="com.projectk.qa.util.ExtentReportListener"></listener>
+<listener class-name="com.projectk.qa.util.CustomListeners"></listener>
+</listeners>
+  <test name="ProjectK Test Cases" parallel ="classes" thread-count="2">
+    <classes>
+      <class name="com.projectk.qa.testcases.TextBoxTest"/>
+    </classes>
+  </test> 
+</suite> 

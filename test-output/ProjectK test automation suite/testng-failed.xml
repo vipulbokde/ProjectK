@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="2" parallel="tests" name="Failed suite [ProjectK test automation suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.projectk.qa.util.ExtentReportListener"/>
+    <listener class-name="com.projectk.qa.util.CustomListeners"/>
+  </listeners>
+  <test thread-count="2" parallel="tests" name="ProjectK Test Cases(failed)">
+    <classes>
+      <class name="com.projectk.qa.testcases.TextBoxTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="dataDriventextBoxButtonTest"/>
+          <include name="tearDown"/>
+          <include name="textBoxButtonTest"/>
+        </methods>
+      </class> <!-- com.projectk.qa.testcases.TextBoxTest -->
+    </classes>
+  </test> <!-- ProjectK Test Cases(failed) -->
+</suite> <!-- Failed suite [ProjectK test automation suite] -->
